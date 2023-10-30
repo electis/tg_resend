@@ -1,0 +1,79 @@
+30.10.2023 15:12:26 [INFO] Starting bot
+30.10.2023 15:12:26 [INFO] Start polling
+30.10.2023 15:12:26 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 15:13:02 [INFO] Update id=77857352 is not handled. Duration 0 ms by bot id=6757967208
+30.10.2023 15:13:55 [INFO] Update id=77857353 is not handled. Duration 0 ms by bot id=6757967208
+30.10.2023 15:14:56 [INFO] Polling stopped
+30.10.2023 15:14:56 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 15:14:56 [INFO] Bot stopped
+30.10.2023 15:15:18 [INFO] Starting bot
+30.10.2023 15:15:19 [INFO] Start polling
+30.10.2023 15:15:19 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 15:15:27 [INFO] Update id=77857354 is not handled. Duration 0 ms by bot id=6757967208
+30.10.2023 15:15:43 [INFO] Update id=77857355 is not handled. Duration 0 ms by bot id=6757967208
+30.10.2023 15:16:07 [INFO] Update id=77857356 is not handled. Duration 0 ms by bot id=6757967208
+30.10.2023 15:16:47 [INFO] Polling stopped
+30.10.2023 15:16:47 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 15:16:47 [INFO] Bot stopped
+30.10.2023 15:16:53 [INFO] Starting bot
+30.10.2023 15:16:54 [INFO] Start polling
+30.10.2023 15:16:54 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 15:22:23 [INFO] -4021749163, test403662105, electis, Andrey@electis.ru
+None
+30.10.2023 15:22:23 [INFO] Update id=77857357 is handled. Duration 315109 ms by bot id=6757967208
+30.10.2023 15:22:23 [INFO] Polling stopped
+30.10.2023 15:22:23 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+30.10.2023 15:22:23 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6757967208)
+30.10.2023 15:22:23 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 15:22:23 [INFO] Bot stopped
+30.10.2023 15:22:32 [INFO] Starting bot
+30.10.2023 15:22:33 [INFO] Start polling
+30.10.2023 15:22:33 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 16:18:14 [INFO] -4021749163, test403662105, electis, Andrey@electis.ru
+None
+30.10.2023 16:18:14 [INFO] Update id=77857358 is handled. Duration 3334500 ms by bot id=6757967208
+30.10.2023 16:18:14 [INFO] Polling stopped
+30.10.2023 16:18:14 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+30.10.2023 16:18:14 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6757967208)
+30.10.2023 16:18:14 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 16:18:14 [INFO] Bot stopped
+30.10.2023 16:18:20 [INFO] Starting bot
+30.10.2023 16:18:21 [INFO] Start polling
+30.10.2023 16:18:21 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:03:52 [INFO] -4021749163, test403662105, electis, Andrey@electis.ru
+None
+30.10.2023 17:03:52 [INFO] Added to -4021749163 by 403662105
+30.10.2023 17:03:52 [INFO] Update id=77857359 is handled. Duration 2699610 ms by bot id=6757967208
+30.10.2023 17:03:52 [ERROR] Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+30.10.2023 17:03:52 [WARNING] Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6757967208)
+30.10.2023 17:03:58 [INFO] Polling stopped
+30.10.2023 17:03:58 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:03:58 [INFO] Bot stopped
+30.10.2023 17:04:08 [WARNING] Starting bot
+30.10.2023 17:04:09 [INFO] Start polling
+30.10.2023 17:04:09 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:04:33 [WARNING] Removed from -4021749163 by 403662105
+30.10.2023 17:04:33 [INFO] Update id=77857360 is handled. Duration 0 ms by bot id=6757967208
+30.10.2023 17:04:50 [WARNING] Added to -4021749163 by 403662105
+30.10.2023 17:04:50 [INFO] Update id=77857361 is handled. Duration 0 ms by bot id=6757967208
+30.10.2023 17:05:28 [INFO] Polling stopped
+30.10.2023 17:05:28 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:05:28 [WARNING] Bot stopped
+30.10.2023 17:05:30 [WARNING] Starting bot
+30.10.2023 17:05:30 [INFO] Start polling
+30.10.2023 17:05:30 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:05:57 [INFO] 403662105, electis, Andrey@electis.ru
+грполи
+30.10.2023 17:05:58 [INFO] Update id=77857362 is handled. Duration 420 ms by bot id=6757967208
+30.10.2023 17:06:41 [INFO] Polling stopped
+30.10.2023 17:06:41 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:06:41 [WARNING] Bot stopped
+30.10.2023 17:06:43 [WARNING] Starting bot
+30.10.2023 17:06:43 [INFO] Start polling
+30.10.2023 17:06:43 [INFO] Run polling for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:06:46 [INFO] 403662105, electis, Andrey@electis.ru
+йцу
+30.10.2023 17:06:47 [INFO] Update id=77857363 is handled. Duration 359 ms by bot id=6757967208
+30.10.2023 17:07:26 [INFO] Polling stopped
+30.10.2023 17:07:26 [INFO] Polling stopped for bot @BOGVBIZNESEbot id=6757967208 - 'партнер'
+30.10.2023 17:07:26 [WARNING] Bot stopped
