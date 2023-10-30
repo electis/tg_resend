@@ -22,6 +22,6 @@ async def private(message: Message, bot: Bot):
 @router.message(F.chat.type.in_({ChatType.GROUP, ChatType.SUPERGROUP, ChatType.CHANNEL}))
 async def group(message: Message):
     if message.content_type == ContentType.NEW_CHAT_MEMBERS and message.model_extra.get('new_chat_member', {}).get('id') == message.bot.id:
-        logger.warning(f"Added to {message.chat.id} by {message.from_user.id}")
-    if message.left_chat_member and message.model_extra.get('left_chat_participant', {}).get('id') == message.bot.id:
-        logger.warning(f"Removed from {message.chat.id} by {message.from_user.id}")
+        logger.warning(f"Added to {message.chat.full_name}({message.chat.id}) by {message.from_user.full_name}({message.from_user.id})")
+    elif message.content_type == ContentType.LEFT_CHAT_MEMBER and message.model_extra.get('left_chat_participant', {}).get('id') == message.bot.id:
+        logger.warning(f"Removed from {message.chat.full_name}({message.chat.id}) by {message.from_user.full_name}({message.from_user.id})")
