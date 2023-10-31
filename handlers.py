@@ -27,6 +27,11 @@ async def group(message: Message):
         logger.warning(f"Removed from {message.chat.full_name}({message.chat.id}) by {message.from_user.full_name}({message.from_user.id})")
 
 
+@router.channel_post()
+async def channel_post(message: Message):
+    log_message(message)
+
+
 @router.message()
 async def other(message: Message):
-    log_message(message, chat=True)
+    log_message(message)

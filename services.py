@@ -2,10 +2,11 @@ from config import config, logger
 
 
 def log_message(message, chat=True):
-    text = ""
+    text = "Message:\n"
     if chat:
         text += f"{message.chat.title} ({message.chat.id})\n"
-    text += f"{message.from_user.full_name} ({message.from_user.id}) {message.from_user.username}\n"
+    if message.from_user:
+        text += f"{message.from_user.full_name} ({message.from_user.id}) {message.from_user.username}\n"
     text += f"{message.text}"
     logger.info(text)
 
