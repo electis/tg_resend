@@ -15,6 +15,7 @@ async def private(message: Message, bot: Bot):
         # bot.get_chat_member(chat_id, bot_id)
         logger.info(f"Private message from boss, send copy to {config.CHAT_ID}")
         await message.send_copy(config.CHAT_ID)
+        await message.answer(f"Копия сообщения переслана в {config.CHAT_ID}")
     else:
         logger.info("Private message from somebody")
         await message.answer("You are not the boss 🤷‍♂️")
